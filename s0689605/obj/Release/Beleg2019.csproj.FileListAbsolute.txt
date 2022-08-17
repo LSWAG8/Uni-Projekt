@@ -1,0 +1,10 @@
+C:\Users\phils\source\repos\InfoBeleg\s0689605\obj\Release\Beleg2019.csprojAssemblyReference.cache
+C:\Users\phils\source\repos\InfoBeleg\s0689605\obj\Release\Beleg2019.csproj.CoreCompileInputs.cache
+C:\Users\phils\source\repos\InfoBeleg\s0689605\bin\Release\Produktionsabteilung.exe.config
+C:\Users\phils\source\repos\InfoBeleg\s0689605\bin\Release\Produktionsabteilung.exe
+C:\Users\phils\source\repos\InfoBeleg\s0689605\bin\Release\Produktionsabteilung.pdb
+C:\Users\phils\source\repos\InfoBeleg\s0689605\bin\Release\Beleg2019.dll
+C:\Users\phils\source\repos\InfoBeleg\s0689605\bin\Release\Beleg2019.pdb
+C:\Users\phils\source\repos\InfoBeleg\s0689605\obj\Release\Beleg2019.csproj.CopyComplete
+C:\Users\phils\source\repos\InfoBeleg\s0689605\obj\Release\Produktionsabteilung.exe
+C:\Users\phils\source\repos\InfoBeleg\s0689605\obj\Release\Produktionsabteilung.pdb
